@@ -15,3 +15,13 @@ Since sports plays a major role in day to day life to be healthy and fit, Here i
 |Kabaddi   |Enhances mental focus and decision-making abilities.         |1 hour       |
 |Cricket   |It helps how to cope with winning and losing.                |1 hour       |
 |Basketball|It helps building self-confidence and self-esteem            |1 hour       |
+
+# Quotations by Scientists
+
+> Imagination is more important than knowledge.
+>
+> -- *Einstien*
+
+> The nation that secures control of the air will ultimately control the world.
+>
+> -- *Alexander Graham Bell*
