@@ -13,7 +13,7 @@
 
 ### Unordered list of dishes at vacation
 
--Chips
--Badam Milk
--Shrimp fry
--Coke
+- Chips
+- Badam Milk
+- Shrimp fry
+- Coke
