@@ -13,4 +13,7 @@
 
 ### Unordered list of dishes at vacation
 
-As i like chips, most of the time i'll carry chips and badam milk to the vacation spot.
+-Chips
+-Badam Milk
+-Shrimp fry
+-Coke
