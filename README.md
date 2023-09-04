@@ -10,3 +10,7 @@
 1. Mae's beach is the place where we can find different varieties of shells. i'll collect different shells over there.
 2. Along with my friends i'll have some snacks and will have some memorable photography.
 3. By enjoying the sea breeze, we will enter into water and play for sometime.
+
+### Unordered list of dishes at vacation
+
+As i like chips, most of the time i'll carry chips and badam milk to the vacation spot.
