@@ -17,3 +17,5 @@
 - Badam Milk
 - Shrimp fry
 - Coke
+
+![Linked Mystats file to readme file](./MyStats.md)
