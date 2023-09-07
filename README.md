@@ -5,6 +5,8 @@
 
 **mae's beach** is located in corner of **louisiana and border of texas** where the sand is filled with **seashells**. The sunrise and sunset will be amazing. I always visit the beach with my friends in vacation.
 
+-------------------------------------------------------------------------------------------
+
 ### Activities done at vacation
 
 1. Mae's beach is the place where we can find different varieties of shells. i'll collect different shells over there.
